@@ -1,20 +1,40 @@
 [
   {
-    "name": "lucariki",
+    "name": "Main",
     "url": "https://lucariki.go.ro",
     "icon": "https://icons.duckduckgo.com/ip3/lucariki.go.ro.ico",
-    "slug": "lucariki",
+    "slug": "main",
     "status": "up",
     "uptime": "100.00%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 5162,
-    "timeDay": 5162,
-    "timeWeek": 5162,
-    "timeMonth": 5162,
-    "timeYear": 5162,
+    "time": 2057,
+    "timeDay": 2057,
+    "timeWeek": 2057,
+    "timeMonth": 2057,
+    "timeYear": 2057,
     "dailyMinutesDown": {}
+  },
+  {
+    "name": "Backup",
+    "url": "https://dw.lucariki.top",
+    "icon": "https://icons.duckduckgo.com/ip3/dw.lucariki.top.ico",
+    "slug": "backup",
+    "status": "down",
+    "uptime": "16.41%",
+    "uptimeDay": "16.41%",
+    "uptimeWeek": "16.41%",
+    "uptimeMonth": "16.41%",
+    "uptimeYear": "16.41%",
+    "time": 0,
+    "timeDay": 0,
+    "timeWeek": 0,
+    "timeMonth": 0,
+    "timeYear": 0,
+    "dailyMinutesDown": {
+      "2025-05-29": 0
+    }
   }
 ]
