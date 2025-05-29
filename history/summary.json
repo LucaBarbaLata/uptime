@@ -10,11 +10,31 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 1982,
-    "timeDay": 1982,
-    "timeWeek": 1982,
-    "timeMonth": 1982,
-    "timeYear": 1982,
+    "time": 6492,
+    "timeDay": 6492,
+    "timeWeek": 6492,
+    "timeMonth": 6492,
+    "timeYear": 6492,
     "dailyMinutesDown": {}
+  },
+  {
+    "name": "sadasd",
+    "url": "https://lucariki.top",
+    "icon": "https://icons.duckduckgo.com/ip3/lucariki.top.ico",
+    "slug": "sadasd",
+    "status": "down",
+    "uptime": "0.00%",
+    "uptimeDay": "0.00%",
+    "uptimeWeek": "0.00%",
+    "uptimeMonth": "0.00%",
+    "uptimeYear": "0.00%",
+    "time": 0,
+    "timeDay": 0,
+    "timeWeek": 0,
+    "timeMonth": 0,
+    "timeYear": 0,
+    "dailyMinutesDown": {
+      "2025-05-29": 0
+    }
   }
 ]
