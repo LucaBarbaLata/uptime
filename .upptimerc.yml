@@ -3,8 +3,10 @@ owner: LucaBarbaLata # Your GitHub organization or username, where this reposito
 repo: uptime # The name of this repository
 
 sites:
-  - name: lucariki
+  - name: Main
     url: https://lucariki.go.ro
+  - name: Backup
+    url: https://dw.lucariki.top
 
 status-website:
   # Add your custom domain name, or remove the `cname` line if you don't have a domain
