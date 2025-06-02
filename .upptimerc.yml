@@ -12,8 +12,8 @@ status-website:
   baseUrl: /uptime
   logoUrl: https://raw.githubusercontent.com/upptime/upptime.js.org/master/static/img/icon.svg
   name: lucariki
-  introTitle: "Welcome to lucariki's uptime page"
-  introMessage: "Status page for Lucariki's servers!"
+  introTitle: "Welcome to Lucariki's Uptime Dashboard"
+  introMessage: "Stay informed about the current operational status of Lucariki's services."
   navbar:
     - title: Status
       href: /
