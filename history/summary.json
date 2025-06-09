@@ -4,18 +4,19 @@
     "url": "https://lucariki.go.ro",
     "icon": "https://icons.duckduckgo.com/ip3/lucariki.go.ro.ico",
     "slug": "main",
-    "status": "up",
-    "uptime": "99.80%",
+    "status": "down",
+    "uptime": "99.81%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "99.80%",
-    "uptimeMonth": "99.80%",
-    "uptimeYear": "99.80%",
+    "uptimeMonth": "99.81%",
+    "uptimeYear": "99.81%",
     "time": 1370,
     "timeDay": 1980,
-    "timeWeek": 1322,
+    "timeWeek": 1320,
     "timeMonth": 1370,
     "timeYear": 1370,
     "dailyMinutesDown": {
+      "2025-06-09": 0,
       "2025-06-07": 20
     }
   }
