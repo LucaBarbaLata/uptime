@@ -5,18 +5,17 @@
     "icon": "https://icons.duckduckgo.com/ip3/lucariki.go.ro.ico",
     "slug": "main",
     "status": "up",
-    "uptime": "99.72%",
-    "uptimeDay": "99.26%",
-    "uptimeWeek": "99.69%",
-    "uptimeMonth": "99.72%",
-    "uptimeYear": "99.72%",
-    "time": 1374,
-    "timeDay": 1726,
-    "timeWeek": 1327,
-    "timeMonth": 1374,
-    "timeYear": 1374,
+    "uptime": "99.83%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "99.80%",
+    "uptimeMonth": "99.83%",
+    "uptimeYear": "99.83%",
+    "time": 1368,
+    "timeDay": 1354,
+    "timeWeek": 1325,
+    "timeMonth": 1368,
+    "timeYear": 1368,
     "dailyMinutesDown": {
-      "2025-06-09": 11,
       "2025-06-07": 20
     }
   }
