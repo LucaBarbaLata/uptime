@@ -1,37 +1,15 @@
 [
   {
-    "name": "Main",
+    "name": "Website",
     "url": "https://lucariki.top",
     "icon": "https://icons.duckduckgo.com/ip3/lucariki.top.ico",
-    "slug": "main",
+    "slug": "website",
     "status": "down",
-    "uptime": "99.66%",
-    "uptimeDay": "95.19%",
-    "uptimeWeek": "99.31%",
-    "uptimeMonth": "99.66%",
-    "uptimeYear": "99.66%",
-    "time": 1367,
-    "timeDay": 1669,
-    "timeWeek": 1426,
-    "timeMonth": 1367,
-    "timeYear": 1367,
-    "dailyMinutesDown": {
-      "2025-06-20": 42,
-      "2025-06-19": 27,
-      "2025-06-07": 20
-    }
-  },
-  {
-    "name": "File Server",
-    "url": "https://files.lucariki.top",
-    "icon": "https://icons.duckduckgo.com/ip3/files.lucariki.top.ico",
-    "slug": "file-server",
-    "status": "down",
-    "uptime": "7.24%",
-    "uptimeDay": "7.24%",
-    "uptimeWeek": "7.24%",
-    "uptimeMonth": "7.24%",
-    "uptimeYear": "7.24%",
+    "uptime": "25.01%",
+    "uptimeDay": "25.01%",
+    "uptimeWeek": "25.01%",
+    "uptimeMonth": "25.01%",
+    "uptimeYear": "25.01%",
     "time": 0,
     "timeDay": 0,
     "timeWeek": 0,
@@ -39,6 +17,26 @@
     "timeYear": 0,
     "dailyMinutesDown": {
       "2025-06-20": 0
+    }
+  },
+  {
+    "name": "File Server",
+    "url": "https://files.lucariki.top",
+    "icon": "https://icons.duckduckgo.com/ip3/files.lucariki.top.ico",
+    "slug": "file-server",
+    "status": "up",
+    "uptime": "0.55%",
+    "uptimeDay": "0.55%",
+    "uptimeWeek": "0.55%",
+    "uptimeMonth": "0.55%",
+    "uptimeYear": "0.55%",
+    "time": 2610,
+    "timeDay": 2610,
+    "timeWeek": 2610,
+    "timeMonth": 2610,
+    "timeYear": 2610,
+    "dailyMinutesDown": {
+      "2025-06-20": 14
     }
   },
   {
@@ -52,11 +50,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 1389,
-    "timeDay": 1389,
-    "timeWeek": 1389,
-    "timeMonth": 1389,
-    "timeYear": 1389,
+    "time": 1410,
+    "timeDay": 1410,
+    "timeWeek": 1410,
+    "timeMonth": 1410,
+    "timeYear": 1410,
     "dailyMinutesDown": {}
   }
 ]
