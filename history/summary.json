@@ -4,19 +4,19 @@
     "url": "https://lucariki.top",
     "icon": "https://icons.duckduckgo.com/ip3/lucariki.top.ico",
     "slug": "website",
-    "status": "down",
-    "uptime": "86.20%",
-    "uptimeDay": "86.20%",
-    "uptimeWeek": "86.20%",
-    "uptimeMonth": "86.20%",
-    "uptimeYear": "86.20%",
-    "time": 1902,
-    "timeDay": 1902,
-    "timeWeek": 1902,
-    "timeMonth": 1902,
-    "timeYear": 1902,
+    "status": "up",
+    "uptime": "75.10%",
+    "uptimeDay": "75.10%",
+    "uptimeWeek": "75.10%",
+    "uptimeMonth": "75.10%",
+    "uptimeYear": "75.10%",
+    "time": 2229,
+    "timeDay": 2229,
+    "timeWeek": 2229,
+    "timeMonth": 2229,
+    "timeYear": 2229,
     "dailyMinutesDown": {
-      "2025-06-20": 36
+      "2025-06-20": 75
     }
   },
   {
