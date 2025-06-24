@@ -25,10 +25,8 @@ status-website:
   introTitle: "Welcome to Lucariki's Uptime Dashboard"
   introMessage: "Stay informed about the current operational status of Lucariki's services."
   navbar:
-    - title: Status
-      href: /
-    - title: Login
-      href: https://lucariki.go.ro
+    - title: Website
+      href: https://lucariki.top
   theme: night
 
 workflowSchedule:
