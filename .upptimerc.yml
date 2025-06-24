@@ -9,6 +9,11 @@ sites:
     url: https://files.lucariki.top
   - name: File Server (Backup)
     url: https://lucariki.go.ro
+  - name: Panel
+    url: https://panel.lucariki.top
+  - name: Immich
+    url: https://immich.lucariki.top
+
 
 status-website:
   # Add your custom domain name, or remove the `cname` line if you don't have a domain
