@@ -59,18 +59,18 @@
     "icon": "https://icons.duckduckgo.com/ip3/panel.lucariki.top.ico",
     "slug": "panel",
     "status": "down",
-    "uptime": "50.46%",
-    "uptimeDay": "50.46%",
-    "uptimeWeek": "50.46%",
-    "uptimeMonth": "50.46%",
-    "uptimeYear": "50.46%",
+    "uptime": "0.24%",
+    "uptimeDay": "0.24%",
+    "uptimeWeek": "0.24%",
+    "uptimeMonth": "0.24%",
+    "uptimeYear": "0.24%",
     "time": 4813,
     "timeDay": 4813,
     "timeWeek": 4813,
     "timeMonth": 4813,
     "timeYear": 4813,
     "dailyMinutesDown": {
-      "2025-08-18": 0
+      "2025-08-18": 79
     }
   },
   {
@@ -78,17 +78,19 @@
     "url": "https://immich.lucariki.top",
     "icon": "https://icons.duckduckgo.com/ip3/immich.lucariki.top.ico",
     "slug": "immich",
-    "status": "up",
-    "uptime": "100.00%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
-    "time": 1954,
-    "timeDay": 1954,
-    "timeWeek": 1954,
-    "timeMonth": 1954,
-    "timeYear": 1954,
-    "dailyMinutesDown": {}
+    "status": "down",
+    "uptime": "99.92%",
+    "uptimeDay": "99.92%",
+    "uptimeWeek": "99.92%",
+    "uptimeMonth": "99.92%",
+    "uptimeYear": "99.92%",
+    "time": 1647,
+    "timeDay": 1647,
+    "timeWeek": 1647,
+    "timeMonth": 1647,
+    "timeYear": 1647,
+    "dailyMinutesDown": {
+      "2025-08-18": 0
+    }
   }
 ]
